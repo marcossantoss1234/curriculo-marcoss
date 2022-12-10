@@ -1,0 +1,556 @@
+body{
+    width: 940px;
+    margin: 0 auto;
+    background-color: rgb(2, 112, 112);
+	
+}
+
+
+
+.menu .inicio{
+ margin: 0 auto;
+ width: 940px;
+ margin: 100 auto;
+ background-color:   rgb(8, 10, 10)
+
+}
+
+.menu{
+	background-color: rgb(0, 255, 170);
+	color: rgb(1, 129, 170);
+	
+	position: fixed;
+	width: 940px;
+	
+}
+
+.menu ul{
+   display: flex;
+   padding: 10px;
+   margin-left: 120px;
+   
+}
+
+.menu li{
+	padding: 15px 15px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	text-decoration: none;
+	
+}
+
+.menu li:hover{
+	background-color: aqua;
+	border-radius: 15px 0 15px;
+}
+
+.menu a{
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+.inicio{
+	background-color: rgb(101, 243, 243);
+	font-family: sans-serif;
+	display: flex;
+	padding: 80px 0 0 0;
+	margin: 0 auto;
+	width: 940px;
+}
+
+
+
+
+.dados-pessoais{
+	padding-left: 120px;
+}
+
+.dados-pessoais h1{
+	font-size: 2.5em;
+	font-weight: bold;
+	font-style: italic;
+	color: rgb(0, 0, 0);
+}
+
+.dados-pessoais .cargo{
+	font-size: 1.2em;
+	font-style: italic;
+	color: black;
+	margin: 23px;
+	
+}
+
+.dados-pessoais p{
+	font-size: 1.3em;
+	color: black;
+	margin: 10px;
+}
+
+.perfil{
+	margin-left: 120px;
+	margin-bottom: 120px;
+	border: 5px solid black; 
+	border-radius: 100%;
+	width: 240px;
+}
+
+.icon{
+	width: 13px;
+	
+}
+
+.insta{
+	position: relative;
+	width: 25px;
+	top: 268px;
+	left: 259px;
+}
+
+.link{
+	position: relative;
+	width: 31px;
+	top: 200px;
+	right: 309px;
+}
+
+.git{
+	position: relative;
+	width: 35px;
+	top: 190px;
+	left: px;
+}
+
+
+.MMM p{
+position: absolute;
+width: 557px;
+height: 214px;
+left: 670px;
+top: 524px;
+text-align: normal;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 36px;
+
+}
+
+
+
+.mim{
+	position: absolute;
+	padding: 21px;
+	border-radius: 23%;
+	
+	
+	
+}
+
+.MMM h3{
+	
+	font-weight: bolder;
+	font-size: 35px;
+	position: absolute;
+	text-align: center;
+	top: 473px;
+	margin-left: 390px;
+	
+}
+
+
+.Edu{
+	position: absolute;
+	width: 492px;
+	height: 100px;
+	left: 323px;
+	top: 926px;
+	background: rgb(1, 182, 173);
+	border-radius: 21px;
+	
+}
+
+.Edu p{
+
+	position: absolute;
+	width: 515px;
+	height: 116px;
+	left: 14px;
+	top: 20px;
+	position: normal;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 26px;
+	
+
+	/*font-size: 16px;
+	margin-left: 33px;
+	position: relative;/*/
+	
+}
+
+.Educação{
+	font-weight: bold;
+	top: 400px;
+	left: 10px ;
+	right: 500px;
+    font-size: 23px;
+	display: flex;
+	position: relative;
+
+}
+
+.caixa{
+position: absolute;
+width: 515px;
+height: 116px;
+left: 323px;
+top: 1150px;
+background: rgb(1, 182, 173);
+border-radius: 24px;
+
+}
+
+.ppp{
+	position: absolute;
+	width: 515px;
+	height: 116px;
+	left: 14px;
+	top: 20px;
+	position: normal;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 26px;
+	
+}
+
+.Habilidades {font-weight: bold;
+	top: 600px;
+	left: 10px ;
+	right: 500px;
+    font-size: 23px;
+	display: flex;
+	position: relative;
+
+}
+
+.caixa2{
+	position: absolute;
+	width: 515px;
+	height: 116px;
+	left: 323px;
+	top: 1350px;
+	background: rgb(1, 182, 173);
+	border-radius: 24px;
+	
+	}
+
+	.Interesses {font-weight: bold;
+		top: 780px;
+		left: 10px ;
+		right: 500px;
+		font-size: 23px;
+		display: flex;
+		position: relative;
+	
+	}
+
+.caixa2 p{position: absolute;
+	width: 515px;
+	height: 116px;
+	left: 14px;
+	top: 20px;
+	position: normal;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 26px;}
+	
+.comp{
+	position: absolute;
+	width: 33px;
+	top: 1367px;
+	left: 733px;
+}
+
+.kkk{
+	position: absolute;
+	width: 33px;
+	top: 1366px;
+	left: 780px;
+}
+
+footer{
+	position: absolute;
+ width: 941px;
+ height: 300px;
+ left: 321px;
+ top: 1570px;
+ margin: 0 auto;
+ background: rgb(165, 167, 167)
+
+	/*width: 940px;
+    margin: 0 auto;
+	background: white;/*/
+}
+
+.body{
+	width: 940px;
+	margin: 0 auto;
+	background: white;
+	height: 1870px;
+}
+
+.whats{
+	position: relative;
+	width: 53px;
+	left: px ;
+	top: 10px;
+	right: 5px;
+}
+
+footer p{
+	position: absolute;
+	font-size: 30px;
+	top: 150px;
+	left: 180px;
+}
+
+h4{
+	position: relative;
+	text-align: center;
+	top: 269px;
+}
+
+@media (max-width:768px) {
+	section, aside{
+		width: 100%;
+		padding: 0;
+	}
+	p{
+		font-size: 56px;
+	}
+	body{
+		width: 1080px;
+		margin: 7 auto;
+		background-color: white;
+		
+		
+	}
+
+	.Edu{
+		position: absolute;
+		width: 492px;
+		height: 100px;
+		left: 303px;
+		top: 1030px;
+		background: rgb(1, 182, 173);
+		border-radius: 21px;
+		
+	}
+
+	.MMM h3{
+	
+		font-weight: bolder;
+		font-size: 45px;
+		position: relative;
+		text-align: center;
+		top: 253px;
+		margin-left: 100px;
+		left: 5px;
+		
+	}
+
+	.mim{
+		position: absolute;
+		padding: 21px;
+		border-radius: 23%;
+		left: 372px;
+		top: 460px;
+		
+		
+	}
+
+	.caixa2{
+		position: absolute;
+		width: 515px;
+		height: 116px;
+		left: 307px;
+		top: 1350px;
+		background: rgb(1, 182, 173);
+		border-radius: 24px;
+		
+		}
+
+		.caixa{
+			position: absolute;
+			width: 515px;
+			height: 116px;
+			left: 407px;
+			top: 1150px;
+			background: rgb(1, 182, 173);
+			border-radius: 24px;
+			
+			}
+
+		.MMM p{
+				position: absolute;
+				width: 557px;
+				height: 214px;
+				left: 300px;
+				top: 774px;
+				text-align: normal;
+				
+				font-family: 'Inter';
+				font-style: italic;
+				font-weight: 400;
+				font-size: 20px;
+				line-height: 36px;
+				
+				}
+
+				footer p{
+					position: absolute;
+					font-size: 30px;
+					top: 150px;
+					left: 180px;
+			}
+			
+			footer{
+				position: absolute;
+			 width: 1000px;
+			 height: 300px;
+			left: 80px;
+			 top: 1870px;
+			 margin: 0 auto;
+			 background: rgb(165, 167, 167);}
+
+			 .body{
+				width: 940px;
+				margin: 0 auto;
+				background: white;
+				height: 1870px;
+			}
+  
+			.Interesses {font-weight: bold;
+				top: 970px;
+				left: 455px ;
+				right: 500px;
+				font-size: 23px;
+				display: flex;
+				position: relative;
+			
+			}
+
+			.caixa2{
+				position: absolute;
+				width: 515px;
+				height: 116px;
+				left: 303px;
+				top: 1550px;
+				background: rgb(1, 182, 173);
+				border-radius: 24px;
+				
+				}
+
+				.Habilidades {font-weight: bold;
+					top: 730px;
+					left:  455px ;
+					right: 500px;
+					font-size: 23px;
+					display: flex;
+					position: relative;
+				
+				}
+				
+				.caixa{
+					position: absolute;
+					width: 515px;
+					height: 116px;
+					left: 303px;
+					top: 1290px;
+					background: rgb(1, 182, 173);
+					border-radius: 24px;
+					
+					}
+
+					.inicio{
+						background-color: rgb(101, 243, 243);
+						font-family: sans-serif;
+						display: flex;
+						padding: 80px 0 0 0;
+						margin: 0 auto;
+						width: 1010px;}
+					
+						.menu{
+							
+							
+							background:rgb(2, 112, 112); ;
+							width: 1008px;
+						}
+						
+						.menu ul{
+						  display: flex;
+						   padding: 10px;
+						   margin-left: 120px;
+						   
+						}
+						
+						.menu li{
+							padding: 15px 15px;
+							font-weight: bolder;
+							text-transform: uppercase;
+							text-decoration: none;
+							
+						}
+
+			            .Educação{
+							font-weight: bold;
+							top: 500px;
+							left: 400px ;
+							right: 500px;
+							font-size: 23px;
+							display: flex;
+							position: relative;
+						
+						}
+
+						main{
+							width: 940px;
+						}
+
+						.insta{
+							position: relative;
+							width: 25px;
+							top: 178px;
+							left: 559px;
+						}
+
+						.link{
+							position: relative;
+							width: 31px;
+							top: 40px;
+							left: -33px;
+						}
+
+						.git{
+							position: relative;
+							width: 35px;
+							top: 102px;
+							left: px;
+						}
+						
+						
+						
+						
+}
+
